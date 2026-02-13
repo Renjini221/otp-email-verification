@@ -1,0 +1,8 @@
+{
+  "name": "otp-email-verification",
+  "version": "1.0.0",
+  "description": "Email OTP Verification using Netlify Functions",
+  "dependencies": {
+    "nodemailer": "^6.9.0"
+  }
+}
